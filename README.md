@@ -1,4 +1,4 @@
 sisbolsa
 ========
 
-project of a control system of institutional scholarships
+project of a control system of institutional scholarships.
